@@ -17,6 +17,7 @@ public class Repositorio1 {
     public static void main(String[] args) {
         System.out.println("hola mundo");
         System.out.println("hola hugo");
+        System.out.println("hola a todos");
 
 // TODO code application logic here
     }
